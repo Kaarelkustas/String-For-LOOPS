@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\bin\Debug\netcoreapp3.1\AsInUserInput.exe
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\bin\Debug\netcoreapp3.1\AsInUserInput.deps.json
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\bin\Debug\netcoreapp3.1\AsInUserInput.runtimeconfig.json
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\bin\Debug\netcoreapp3.1\AsInUserInput.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\bin\Debug\netcoreapp3.1\AsInUserInput.dll
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\bin\Debug\netcoreapp3.1\AsInUserInput.pdb
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.AssemblyInfo.cs
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.dll
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.pdb
+C:\Users\opilane\source\repos\StringsForLoops\AsInUserInput\obj\Debug\netcoreapp3.1\AsInUserInput.genruntimeconfig.cache
